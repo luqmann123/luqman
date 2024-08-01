@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffde9c;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fffdfd;
+}
+
+.menu {
+    background-color: #444;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.menu a {
+    float: left;
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: #555;
+}
